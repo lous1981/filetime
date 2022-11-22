@@ -1,1 +1,1 @@
-# filetime
+# 这是Python代码，实现了将MicroSoft的FILETIME与UNIX的DATETIME进行相互转换
